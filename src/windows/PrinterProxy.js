@@ -73,6 +73,10 @@ exports.print = function (success, fail, args) {
     exports._args = args[1];
 
     MSApp.getHtmlPrintDocumentSourceAsync(page).then(function (source) {
+		source.topMargin = 0;
+        source.bottomMargin = 0;
+		source.rightMargin = 0;
+        source.leftMargin = 0;
         exports._page = source;
         PrintManager.showPrintUIAsync();
     });
@@ -113,6 +117,8 @@ exports.onPrintTaskRequested = function (event) {
     } else {
         task.options.duplex = Printing.PrintDuplex.oneSided;
     }
+
+    task.options.numberOfCopies = config.copies || 1;
 
     task.oncompleted = function (e) {
         exports._func(e.detail[0].completion == 3);
