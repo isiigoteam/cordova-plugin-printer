@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-printer.git"
+    "url": "git+https://github.com/isiigoteam/cordova-plugin-printer.git"
   },
   "keywords": [
     "appplant",
@@ -40,7 +40,7 @@
   "author": "Sebastián Katzer",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/katzer/cordova-plugin-printer/issues"
+    "url": "https://github.com/isiigoteam/cordova-plugin-printer/issues"
   },
-  "homepage": "https://github.com/katzer/cordova-plugin-printer#readme"
+  "homepage": "https://github.com/isiigoteam/cordova-plugin-printer#readme"
 }
