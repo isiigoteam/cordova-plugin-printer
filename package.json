@@ -1,6 +1,6 @@
 {
   "name": "isiigo-cordova-plugin-printer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prints HTML documents",
   "cordova": {
     "id": "isiigo-cordova-plugin-printer",
