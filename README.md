@@ -1,6 +1,6 @@
 
 <p align="left">
-    <b><a href="https://github.com/katzer/cordova-plugin-printer/blob/example/README.md">SAMPLE APP</a> :point_right:</b>
+    <b><a href="https://github.com/isiigoteam/cordova-plugin-printer/blob/example/README.md">SAMPLE APP</a> :point_right:</b>
 </p>
 
 Cordova Print Plugin [![npm version](https://badge.fury.io/js/cordova-plugin-printer.svg)](http://badge.fury.io/js/cordova-plugin-printer) [![Build Status](https://travis-ci.org/katzer/cordova-plugin-printer.svg?branch=master)](https://travis-ci.org/katzer/cordova-plugin-printer)
@@ -9,11 +9,11 @@ Cordova Print Plugin [![npm version](https://badge.fury.io/js/cordova-plugin-pri
 Plugin for the [Cordova][cordova] framework to print HTML from iOS, Android and Windows Universal apps.
 
 <p align="center">
-    <img width="23.8%" src="https://github.com/katzer/cordova-plugin-printer/blob/example/images/print-ios.png"></img>
+    <img width="23.8%" src="https://github.com/isiigoteam/cordova-plugin-printer/blob/example/images/print-ios.png"></img>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="26.8%" src="https://github.com/katzer/cordova-plugin-printer/blob/example/images/print-windows.png"></img>
+    <img width="26.8%" src="https://github.com/isiigoteam/cordova-plugin-printer/blob/example/images/print-windows.png"></img>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="23.8%" src="https://github.com/katzer/cordova-plugin-printer/blob/example/images/print-android.png"></img>
+    <img width="23.8%" src="https://github.com/isiigoteam/cordova-plugin-printer/blob/example/images/print-android.png"></img>
 </p>
 
 ### About Apple AirPrint
@@ -37,19 +37,19 @@ See [Building Apps with Multimedia for Android][android_guide] for detailed info
 ## Installation
 Install the latest version:
 
-    cordova plugin add cordova-plugin-printer
+    cordova plugin add isiigo-cordova-plugin-printer
 
 Or a specific version:
 
-    cordova plugin add cordova-plugin-printer@VERSION
+    cordova plugin add isiigo-cordova-plugin-printer@VERSION
 
 Or the latest dev version:
 
-    cordova plugin add https://github.com/katzer/cordova-plugin-printer.git
+    cordova plugin add https://github.com/isiigoteam/cordova-plugin-printer.git
 
 Or a custom version:
 
-    cordova plugin add cordova-plugin-printer --searchpath path/to/plugin
+    cordova plugin add isiigo-cordova-plugin-printer --searchpath path/to/plugin
 
 And then execute:
 
