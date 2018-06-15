@@ -1,6 +1,6 @@
 {
   "name": "isiigo-cordova-plugin-printer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prints HTML documents",
   "cordova": {
     "id": "isiigo-cordova-plugin-printer",
@@ -37,7 +37,7 @@
       "version": ">=8.0"
     }
   ],
-  "author": "Sebastián Katzer",
+  "author": "Sebastián Katzer forked by isiigoTeam",
   "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/isiigoteam/cordova-plugin-printer/issues"
